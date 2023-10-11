@@ -1,10 +1,10 @@
 
-Project Title: Exploring Youth Tobacco and E-cigarette/Vaping Trends in the United States: 2015-2019 using R Markdown
+**Exploring Youth Tobacco and E-cigarette/Vaping Trends in the United States: 2015-2019 using R Markdown
 
-Background:
+**Background**:
 Tobacco products, including e-cigarettes, are known to pose substantial health risks due to the presence of harmful substances such as carcinogens, heavy metals, and hazardous particles. Furthermore, the emergence of e-cigarette and vaping products has raised concerns, as counterfeit versions can contain additional dangerous chemicals. To address these concerns, this project leverages data from the National Youth Tobacco Survey (NYTS).
 
-Introduction:
+**Introduction**:
 This comprehensive case study delves into the evolving landscape of tobacco and e-cigarette/vaping use among American youths over the span of 2015 to 2019. The investigation encompasses several vital aspects:
 
 Trend Analysis: The primary objective is to scrutinize how the utilization of tobacco and e-cigarette/vaping products by American youths has evolved since 2015. This will offer valuable insights into the changing patterns of substance use among adolescents.
