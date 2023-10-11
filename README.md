@@ -1,5 +1,5 @@
 
-**Exploring Youth Tobacco and E-cigarette/Vaping Trends in the United States: 2015-2019 using R Markdown
+###Exploring Youth Tobacco and E-cigarette/Vaping Trends in the United States: 2015-2019 using R Markdown
 
 **Background**:
 Tobacco products, including e-cigarettes, are known to pose substantial health risks due to the presence of harmful substances such as carcinogens, heavy metals, and hazardous particles. Furthermore, the emergence of e-cigarette and vaping products has raised concerns, as counterfeit versions can contain additional dangerous chemicals. To address these concerns, this project leverages data from the National Youth Tobacco Survey (NYTS).
